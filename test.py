@@ -1,22 +1,24 @@
 import requests
 
-def download_file(url):
+def download_file(url, filename):
     response = requests.get(url)
-    response.raise_for_status()  # Assure que la requête a réussi
-    return response.text
+    response.raise_for_status()
+    with open(filename, 'w', encoding='utf-8') as file:
+        file.write(response.text)
 
-def text_to_list(text):
-    return text.splitlines()
+def read_file_to_list(filename):
+    with open(filename, 'r', encoding='utf-8') as file:
+        return file.readlines()
 
-# URL du fichier à télécharger
+
 url = "https://raw.githubusercontent.com/Rakou-FR/BDD-licences/main/tiktok.txt"
+filename = "tiktok.txt"
 
-# Télécharger le contenu du fichier
-file_content = download_file(url)
 
-# Transformer le contenu en liste de lignes
-lines_list = text_to_list(file_content)
+download_file(url, filename)
 
-# Afficher la liste des lignes
+
+lines_list = read_file_to_list(filename)
+
 for line in lines_list:
-    print(line)
+    print(line.strip())
