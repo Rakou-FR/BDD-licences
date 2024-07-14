@@ -1,4 +1,4 @@
-images/mp4.png::excel-md3-v02::https://drive.google.com/file/d/124buaWQjx-H-kVMtrmOphNLc_iCfiGKT/view?usp=sharing
+images/mp4.jpg::excel-md3-v02::https://drive.google.com/file/d/124buaWQjx-H-kVMtrmOphNLc_iCfiGKT/view?usp=sharing
 images/pdf.png::GRILLE DE PRIX DE 140 PIÈCES::https://drive.google.com/file/d/135sLA5pMKPLgh776iIBygo3ZH-jQecUP/view?usp=sharing
 images/pdf.png::GUIDE DES 100 MEILLEURS TAGS POUR VINTED::https://drive.google.com/file/d/19JfHlN5Gvfe09o41hsSEXkZ74tkDhWug/view?usp=sharing
 images/pdf.png::GUIDE_ARCTERYX::https://drive.google.com/file/d/1AnLJRHkHlTLFXo5B_qHM-xmuXMttYoLv/view?usp=sharing
