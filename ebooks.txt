@@ -1,4 +1,4 @@
-images/pdf.png::excel-md3-v02::https://drive.google.com/file/d/124buaWQjx-H-kVMtrmOphNLc_iCfiGKT/view?usp=sharing
+images/mp4.png::excel-md3-v02::https://drive.google.com/file/d/124buaWQjx-H-kVMtrmOphNLc_iCfiGKT/view?usp=sharing
 images/pdf.png::GRILLE DE PRIX DE 140 PIÈCES::https://drive.google.com/file/d/135sLA5pMKPLgh776iIBygo3ZH-jQecUP/view?usp=sharing
 images/pdf.png::GUIDE DES 100 MEILLEURS TAGS POUR VINTED::https://drive.google.com/file/d/19JfHlN5Gvfe09o41hsSEXkZ74tkDhWug/view?usp=sharing
 images/pdf.png::GUIDE_ARCTERYX::https://drive.google.com/file/d/1AnLJRHkHlTLFXo5B_qHM-xmuXMttYoLv/view?usp=sharing
@@ -11,7 +11,7 @@ images/pdf.png::GUIDE_STUSSY::https://drive.google.com/file/d/1LH0yfkbYxlK62LkhZ
 images/pdf.png::GUIDE_THE_NORTH_FACE::https://drive.google.com/file/d/1MeSAU_vf-xiJkCf-ZPXrSnyAME8_PjYV/view?usp=sharing
 images/pdf.png::LA DESCRIPTION VINTED PARFAITE POUR CHAQUE ARTICLE::https://drive.google.com/file/d/1MpcitSpLcbSIq-UhrkjajMnrqwrYslQ3/view?usp=sharing
 images/pdf.png::LES 15 ARTICLES DU MOMENT (HIVER)::https://drive.google.com/file/d/1NDX9ZqCmEWVQqOe-y-uXgJuW1DvtAFEr/view?usp=sharing
-images/pdf.png::LIENS IMPORTANTS::https://drive.google.com/file/d/1OJ7UOuB0OOCektdp1oxhtDeuDIdFvGDH/view?usp=sharing
+images/excel.png::LIENS IMPORTANTS::https://drive.google.com/file/d/1OJ7UOuB0OOCektdp1oxhtDeuDIdFvGDH/view?usp=sharing
 images/pdf.png::LISTE 3 FOURNISSEURS::https://drive.google.com/file/d/1UR0E1ME1qDvSxMpyX5MBfW4jHA5eCvLH/view?usp=sharing
 images/pdf.png::LISTE DES MEILLEURES FRIPERIES PARISIENNES POUR LA REVENTE::https://drive.google.com/file/d/1ckKzmh6oAiA9DnYEjgsPp4ugWyoSQ4IX/view?usp=sharing
 images/pdf.png::LISTE X (11) FOURNISSEURS DÉCONSEILLÉS::https://drive.google.com/file/d/1d52Kb7Av8dy5ZxyDYupCMHYrocnQLOk_/view?usp=sharing
